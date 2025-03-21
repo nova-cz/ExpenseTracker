@@ -1,30 +1,26 @@
-# ExpenseTracker
+# ExpenseTracker  
 
-ExpenseTracker es una aplicación diseñada para administrar ingresos y gastos de manera eficiente y sencilla. Fue propuesta como proyecto para la Fepro 2024, con el objetivo de ofrecer una solución innovadora y amigable para la gestión financiera personal.
+ExpenseTracker is a simple and efficient app for managing income and expenses. Designed for Fepro 2024, it provides a clean and intuitive experience for personal finance management.  
 
-## Video     
+## Demo  
+[Watch the demo](https://github.com/user-attachments/assets/bf6268dc-fd70-4b31-9511-79c768d8bcbf)  
 
-A continuación, puedes ver un video demostrativo del proyecto:
-   
-https://github.com/user-attachments/assets/bf6268dc-fd70-4b31-9511-79c768d8bcbf
+[!IMPORTANT]  
+**ExpenseTracker** helps you track your finances with ease, offering insights and secure data backup.  
 
-📌 **Características**
-
-- Registro de ingresos y gastos con categorías personalizables.
-- Visualización de datos en gráficos interactivos.
-- Historial de transacciones con búsqueda y filtrado avanzado.
-- Diseño intuitivo y optimizado para iOS.
-- Soporte para múltiples divisas.
-- Integración con iCloud para respaldo seguro de datos.
-
-📱 **Tecnologías Utilizadas**
-
-ExpenseTracker está desarrollado en Swift y utiliza SwiftUI para la interfaz de usuario. Además, se apoya en varias librerías externas para mejorar su funcionalidad:
-
-- **SwiftUICharts**: Para la visualización de datos en gráficos dinámicos.
-- **Collections**: Para estructuras de datos optimizadas y personalizadas.
-- **UIFontIcon**: Para el uso de iconos personalizados en la interfaz.
-
-Desarrollado por nova-cz 🚀
+## Features  
+- Customizable income and expense categories  
+- Interactive data visualization  
+- Transaction history with search and filters  
+- Optimized design for iOS  
+- Multi-currency support  
+- Secure iCloud backup  
 
 
+## Tech Stack  
+Built with **Swift** and **SwiftUI**, using:  
+- **SwiftUICharts** for dynamic charts  
+- **Collections** for optimized data structures  
+- **UIFontIcon** for a refined UI  
+
+Developed by **Miguel Cruz**  
