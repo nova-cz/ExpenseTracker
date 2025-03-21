@@ -2,7 +2,7 @@
 
 ExpenseTracker is a simple and efficient app for managing income and expenses. Designed for Fepro 2024, it provides a clean and intuitive experience for personal finance management.  
 
-# Video Presentación
+# Video Presentation
 [Watch the demo](https://github.com/user-attachments/assets/bf6268dc-fd70-4b31-9511-79c768d8bcbf)  
 
 >[!IMPORTANT]  
