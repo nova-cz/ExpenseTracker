@@ -6,7 +6,7 @@ ExpenseTracker es una aplicación diseñada para administrar ingresos y gastos d
 
 A continuación, puedes ver un video demostrativo del proyecto:
    
-![Video sobre el proyecto](https://youtu.be/pMrE1CSFbaA?si=dEcx-jAHFsk52AHS) 
+https://github.com/user-attachments/assets/bf6268dc-fd70-4b31-9511-79c768d8bcbf
 
 📌 **Características**
 
